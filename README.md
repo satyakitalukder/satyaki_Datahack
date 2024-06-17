@@ -1,7 +1,6 @@
 # satyaki_Datahack
  (***** The Python code of the model can be found in this repo. It is named 'satyakitalukder_Datahack.ipynb')
  (***** The final prediction of the model on the test set can be found in the repo, in the name 'final.csv')
- (***** Other related documents can be found on the repo itself)
 
 
 This is a project based on a Hackathon conducted by IIT Guwahati in collaboration with Geeks for Geeks
