@@ -6,6 +6,9 @@
 
 This is a project based on a Hackathon conducted by IIT Guwahati in collaboration with Geeks for Geeks
 
+
+ABOUT THE PROJECT :
+
 DESCRIPTION OF THE PROJECT :
     Our goal is to predict how likely individuals are to receive their 'xyz' and 'seasonal' flu vaccines. Specifically, we'll predict two probabilities(and not binary class): one for 'xyz_vaccine' and another for       'seasonal_vaccine'.
     ---> The two target variables are :
