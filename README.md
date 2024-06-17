@@ -17,7 +17,7 @@ STEPS
     🎈The Histogram Gradient Boosting Classifier is used because it’s efficient with large training datasets(like ours), handles categorical features well, and deals with missing values effectively. It can handle 
      non-linear relationships in data, making it a powerful tool for classification tasks.
     🎈Since our Test dataset had many missing values and some belonged to the important feature columns, this model is used. (ps: I wouldn't just drop thousands of entries(people in our case) just because their 
-     'health insurance' data is somehow missing, and I wouldn't fill them with any statistical replacements(mean, mode, median) because it would cause much bias, because the missing values are numerous)
+     'health insurance' data is somehow missing, and I wouldn't fill them with any statistical replacements(mean, mode, median) because it would cause much bias, as the missing values are numerous)
     🎈This classifier model gave the highest mean ROC-AUC score for this dataset, which was the main evaluation metric for the project(model).
 ---> The last part contains a comparison with the 'Support Vector Machine' Algorithm with the 'Linear' kernel, which performed well too, in this dataset, but the accuracy metric and ROC-AUC score were still 
      better for the 'Histogram Gradient Boosting' Algorithm. 👍
