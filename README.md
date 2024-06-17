@@ -1,4 +1,8 @@
 # satyaki_Datahack
+ (-- The Python code of the model can be found in this repo. It is named 'satyakitalukder_Datahack.ipynb')
+ (-- The final prediction of the model on the test set can be found in the repo, in the name 'final.csv')
+ (-- Other related documents can be found on the repo itself)
+
 
 This is a project based on a Hackathon conducted by IIT Guwahati in collaboration with Geeks for Geeks
 
@@ -21,7 +25,3 @@ STEPS
     🎈This classifier model gave the highest mean ROC-AUC score for this dataset, which was the main evaluation metric for the project(model).
 ---> The last part contains a comparison with the 'Support Vector Machine' Algorithm with the 'Linear' kernel, which performed well too, in this dataset, but the accuracy metric and ROC-AUC score were still 
      better for the 'Histogram Gradient Boosting' Algorithm. 👍
-
-     (-- The Python code of the model can be found in this repo. It is named 'satyakitalukder_Datahack.ipynb')
-     (-- The final prediction of the model on the test set can be found in the same, in the name 'final.csv')
-     (-- Other related doccuments can be found on the repo itself)
