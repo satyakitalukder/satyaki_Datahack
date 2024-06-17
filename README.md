@@ -24,3 +24,4 @@ STEPS
 
      (-- The Python code of the model can be found in this repo. It is named 'satyakitalukder_Datahack.ipynb')
      (-- The final prediction of the model on the test set can be found in the same, in the name 'final.csv')
+     (-- Other related doccuments can be found on the repo itself)
